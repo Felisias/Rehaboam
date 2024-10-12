@@ -1,31 +1,40 @@
 Photo: 989cd06s-1920.jpg
 Category: road_only
-Has Defects: Yes
-Total Defect Count: 3
+Has Defects: No
+Total Defect Count: 0
 Large Potholes - Present: No, Count: 0
-Medium Potholes - Present: Yes, Count: 3
+Medium Potholes - Present: No, Count: 0
 Small Potholes - Present: No, Count: 0
-Condition Score: 0.79
+Condition Score: 1.0
 =========================================
 Photo: dgl_vid3-1000_2355.jpg
 Category: road_only
-Has Defects: Yes
-Total Defect Count: 5
-Large Potholes - Present: Yes, Count: 3
-Medium Potholes - Present: Yes, Count: 2
-Small Potholes - Present: No, Count: 0
-Condition Score: 0.56
-=========================================
-Photo: b14a676s-1920.jpg
-Category: sidewalk_only
-Has Defects: Yes
-Total Defect Count: 4
-Large Potholes - Present: Yes, Count: 1
+Has Defects: No
+Total Defect Count: 0
+Large Potholes - Present: No, Count: 0
 Medium Potholes - Present: No, Count: 0
-Small Potholes - Present: Yes, Count: 3
-Condition Score: 0.75
+Small Potholes - Present: No, Count: 0
+Condition Score: 1.0
+=========================================
+Photo: 9adfaeu-960.jpg
+Category: sidewalk_only
+Has Defects: No
+Total Defect Count: 0
+Large Potholes - Present: No, Count: 0
+Medium Potholes - Present: No, Count: 0
+Small Potholes - Present: No, Count: 0
+Condition Score: 1.0
 =========================================
 Photo: og_og_145608208726475253.jpg
+Category: sidewalk_only
+Has Defects: Yes
+Total Defect Count: 3
+Large Potholes - Present: Yes, Count: 2
+Medium Potholes - Present: Yes, Count: 1
+Small Potholes - Present: No, Count: 0
+Condition Score: 0.73
+=========================================
+Photo: aa0e286s-1920.jpg
 Category: road_and_sidewalk
 Has Defects: No
 Total Defect Count: 0
@@ -33,4 +42,13 @@ Large Potholes - Present: No, Count: 0
 Medium Potholes - Present: No, Count: 0
 Small Potholes - Present: No, Count: 0
 Condition Score: 1.0
+=========================================
+Photo: b14a676s-1920.jpg
+Category: road_and_sidewalk
+Has Defects: Yes
+Total Defect Count: 5
+Large Potholes - Present: Yes, Count: 2
+Medium Potholes - Present: Yes, Count: 3
+Small Potholes - Present: No, Count: 0
+Condition Score: 0.59
 =========================================
